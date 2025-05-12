@@ -1,0 +1,8 @@
+*.pyc
+*~
+__pycache__
+data_after_check
+data_before_check
+images
+test.py 
+second.py
